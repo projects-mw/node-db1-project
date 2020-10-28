@@ -81,3 +81,12 @@ The following exercises **require research**, the concepts needed to complete th
 Follow these steps for completing your project.
 
 - [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[jason 18](https://youtu.be/kQ-bMUtw4d4)
+[jason 16](https://youtu.be/WOgSs0L91-g)
+[dan 15](https://youtu.be/PwXQbTiHThM)
+[luis 31](https://youtu.be/wcWqRplnipU)
+[jason 14](https://youtu.be/uD0_28zLjpc)
+[jason 8](https://youtu.be/y-v9zYM2tTE)
